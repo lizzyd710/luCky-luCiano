@@ -4,7 +4,7 @@
 #define U ");
 
 int main(void) {
-LNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNU
+L NNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN U
 L                          mmmmmmNNNNNNNNN                                     U
 L                        NmmmNNNNNNNNNNNNNNN                                   U
 L                       mmmmmmmdddddddmNNNNNN                                  U
@@ -45,12 +45,12 @@ L   y...----:/+/-...----.----....-........-.-----:::::::/s/:::------------:y   U
 L  m-...--::ﾉﾉ/o/------..--.................----:::::::::++/:::::---------:/m  U
 L  o...---:::ﾉﾉo/.----..--..................-----::::----:+o+ﾉﾉ::---------::oN U
 L d-...--:::/++o:.---......................-----:::-------/sh+/::::--------::d U
-LNo....---::ﾉﾉ+s-.---.........`...........-----::--------:/ohhs+/:---------::s U
-Ly...------::/+o..--.......---::---....--.-----:--------:ﾉﾉyddhso+ﾉﾉ::------:+NU
-Ly::ﾉﾉ++++++++os---......./++ooo++ﾉﾉ/---------:-------:ﾉﾉ++yyssooooosssoo+/::/dU
-Ly++++++ooooooss:--....--:/ooooo+/+oo+/:------------:/++ossoooooooossssssyyso+dU
-LNsoo+++++++++++++ﾉﾉﾉﾉ/+/++++ooo+osoooooo+ﾉﾉﾉﾉﾉﾉ/++oooooooooooooooosssssyyyyyhNU
-L mysoooo+++++++++++ﾉﾉ+++ssoo++/+oooooooooooooooossoosooooooossssssssyyyyyyyhN U
+L N....---::ﾉﾉ+s-.---.........`...........-----::--------:/ohhs+/:---------::s U
+L y..------::/+o..--.......---::---....--.-----:--------:ﾉﾉyddhso+ﾉﾉ::------:N U
+L y:ﾉﾉ++++++++os---......./++ooo++ﾉﾉ/---------:-------:ﾉﾉ++yyssooooosssoo+/::d U
+L y+++++ooooooss:--....--:/ooooo+/+oo+/:------------:/++ossoooooooossssssyysod U
+L Noo+++++++++++++ﾉﾉﾉﾉ/+/++++ooo+osoooooo+ﾉﾉﾉﾉﾉﾉ/++oooooooooooooooosssssyyyyyN U
+L mysoooo+++++++++++ﾉﾉ+++ssoo++/+oooooooooooooooossoosooooooossssssssyyyyyyyN  U
 L  dyyyssooooooooooooﾉﾉ+++oyyo+oooooosooooooos/oysssssssssssssssyyyyyyhhyhhm   U
 L   mdhhyyyyyyyyyyyssoo++++++++++osssssssssshsyysosssssyyyyyyyyyyhhhhddmN      U
 L     Nmdhhhhhhhhhhhho+osyyyysssssyyyyyyyyyshs+os+yyyyyyyyyhhhhddmNN           U
@@ -130,7 +130,7 @@ L                                                    hyhhhhhhddhhmmmN          U
 L                                                    dhyyyhhhdddmmmN           U
 L                                                    mhhhhhhhhdmmmN            U
 L                                                     NhhhdddddmmN             U
-LNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmNNNNNNNNNNNNNNNNNU
+L NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmNNNNNNNNNNNNNNNN U
 
 	return EXIT_SUCCESS;
 }
