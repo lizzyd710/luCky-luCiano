@@ -1,136 +1,136 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define 6 printf("\""
-#define 9 "\"");
+#define L printf("\""
+#define U "\"");
 
 int main(void) {
-yNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.
-y                          mmmmmmNNNNNNNNN                                     .
-y                        NmmmNNNNNNNNNNNNNNN                                   .
-y                       mmmmmmmdddddddmNNNNNN                                  .
-y                       mddhyoooooosssyhdmmNNNN                                .
-y                      Nds+++/+++++oossyyhdmNNNN                               .
-y                      dy+:/+///+++ooosyyydmmNNN                               .
-y                      hy//o+o+++++osyyyhhhdmNNNN                              .
-y                      ds+syhdhyoosyhdhhhddhdNNNN                              .
-y                      d+oyhhddhooyhdhdddhhhhNNNN                              .
-y                     Ny+/osyyys+oyyyyyyyyyyhNmdd                              .
-y                      y///++o+++oyyssoossyyhmdyyN                             .
-y                      y+//++ooysshysoooossyhhyyh                              .
-y                      m/+oooo+ossyyssssssyhhysyN                              .
-y                       h+oosyyysssyhhssssyhhmdm                               .
-y                        hooo+ossssssoosssyhd                                  .
-y                         doo++++ooooossyyyym                                  .
-y                         N+ooo+oooossyyyysym                                  .
-y                          ooossyyyyyyyysssyddd                                .
-y                         do+++osssssssssssyds/y                               .
-y                        m/s+++oooosssssssso/::/y                              .
-y                       m:.so++oossoooso+/:--::::+oydm                         .
-y                    Ny/.`-:oso+ooooo+/-----:::::----:/oyhmN                   .
-y                Nmdo-.../+:-:sooooo-:/+:--::-::-----------:+shm               .
-y            ms+:-...-...:::::/oooo:----:-----------------------:+ym           .
-y          h/.............-....-o+/......:-----------..---.--------:sN         .
-y        m/...`.......`.........s+......---....--..........--------::oN        .
-y       y-...........``.......`./-..`..--......-...........-:-----::::oN       .
-y      m..............`...............-...................-:------::::/s       .
-y      y.............................-...................-:-.---::::::::s      .
-y      +........................```.....................:::----::::-:::::m     .
-y     d...........................................------:/:---:::--:::--+N     .
-y     /..--...................................------:::://::::::--::--:/sN     .
-y    N-..-:--:--.............................---..-::::/oo+::::-----::::/oN    .
-y    N-...://:-.---..........................------::://os/::------:----:+N    .
-y    d...--://:/-............................------::://so/::::::------::/d    .
-y   N/..----://:...........--...............-----::::://so/:/::----------:+N   .
-y   y...----:/+/-...----.----....-........-.-----:::::::/s/:::------------:y   .
-y  m-...--::///o/------..--.................----:::::::::++/:::::---------:/m  .
-y  o...---::://o/.----..--..................-----::::----:+o+//::---------::oN .
-y d-...--:::/++o:.---......................-----:::-------/sh+/::::--------::d .
-yNo....---:://+s-.---.........`...........-----::--------:/ohhs+/:---------::s .
-yy...------::/+o..--.......---::---....--.-----:--------://yddhso+//::------:+N.
-s+:://++++++++os---......./++ooo++///---------:-------://++yyssooooosssoo+/::/d.
-yy++++++ooooooss:--....--:/ooooo+/+oo+/:------------:/++ossoooooooossssssyyso+d.
-yNsoo+++++++++++++/////+/++++ooo+osoooooo+///////++oooooooooooooooosssssyyyyyhN.
-y mysoooo+++++++++++//+++ssoo++/+oooooooooooooooossoosooooooossssssssyyyyyyyhN .
-y  dyyyssoooooooooooo//+++oyyo+oooooosooooooos/oysssssssssssssssyyyyyyhhyhhm   .
-y   mdhhyyyyyyyyyyyssoo++++++++++osssssssssshsyysosssssyyyyyyyyyyhhhhddmN      .
-y     Nmdhhhhhhhhhhhho+osyyyysssssyyyyyyyyyshs+os+yyyyyyyyyhhhhddmNN           .
-y        NNNNNmmdhhysoooooosssssyyyyyyyyssssyso+osssssyyyyyhmN                 .
-y               mo+///:/ossysssssssso+//://///:::::::::////s                   .
-y               N/::--:::::+oo+++++//:::::--------:::::::::/sd                 .
-y                m:.----:--:::::///:::::----------:--::::::::+N                .
-y               m/.-:::-..------:::::----------------------:/m                 .
-y               d-.........------:::::---------------:::::++m                  .
-y                d:::-----:/::-::::::---:::://+oyyyyhhhddhs/s                  .
-y               h:.+dd+ysoo++////////+++-/syhdddmmmNNNds+:::/y                 .
-y             m+.``.:s/dmmmyys+yyhdshddd+-dmmmNNNmdhyo:----://d                .
-y            m:``````../oydyddmmmmmdyNNmm:omdhys+:---..-----:/+m               .
-y           N/.```````...--/hdmmmmmmydhys+:/--.........------:/d               .
-y           d...``.........-:++o++//:::---..............----:::d               .
-y           d-.................-..-.....................---::--o               .
-y           Ny/.........................................--:::--/N              .
-y             d-....................................-----::::--/N              .
-y             m........................................----::::o               .
-y             d..............----.......................----:::s               .
-y             y`.....-------------------.-..-..........-----:::/d              .
-y             o......--......--:--::----------..........------:/+N             .
-y             +........--::::--:::----------------......------::+N             .
-y            N:.......-----:::::/+/:::::-------..........-----:/+N             .
-y            N:............--:://+os+::------.............---::/h              .
-y            m.....------..----::/+os::::::::-...---......---::/m              .
-y            m.....-------------:::/+/:///:-----..........---:::m              .
-y            d`...------:::::-----:/+oo-----::---.........---::/N              .
-y            h`...-----------:::--::/+o://::-----..........--::/N              .
-y            h`...---------------:::/+s/:------------......--:::N              .
-y            h`...----------------::/+ss:::---------.......---::m              .
-y            d....--------------:::::+sd/:------------......--::d              .
-y            m..-------------------:/+s y::---------.......--:::h              .
-y            m---------------------:/oh N+:-----------.....--:::y              .
-y            N-..-----------------::/+m  d::-----------.------::o              .
-y            N:.-------------------:/oN   +:::----------------::+              .
-y            N:.-------------------:/o    y::::---------------::/N             .
-y            N:.-------------------:/+N   m::-----------------::/m             .
-y             /.--------------------:+N   N:-::---------------:::d             .
-y             o.-------------------:/y    N/:::::-------------::-o             .
-y             Ny+//:----::::///+++osd      mo/:----------------:-:N            .
-y                 Nmyyyssyyyyyyyssssm        ds+/:-------------/od             .
-y                   Nhhhhhyyyyysssyym         dhhys+//::::::/+sm               .
-y                    Nhddhhhhyyssyyhm         NhhhhhhhhhyyhhhhhN               .
-y                     yhdddhhyyyyyhhd          Nhhhhhhhhhhhhhhhd               .
-y                     syyhhhyyyyyyyyhN          Nhhddddddhhhhhhhm              .
-y                    Nsssyyyyyyyyyyyym           mhhhdddddhhyyyhdN             .
-y                    Nsssyyyyysssssyyh           Nhhhhhhhhyyyyyhhm             .
-y                    Nsssssyyssssssyyh           Nhyyyyyyyysssyhhd             .
-y                     ysssssssssssssyh            hyyyyyyyysssyyhd             .
-y                     hyssssyyyssssyyh            dyyyyyysssssyyhh             .
-y                     dsyysyysysssyyhm            myyyyyyyssssyyhh             .
-y                     msyyyyyyssyyyhm             Nyyyyyyyyssyyyhh             .
-y                     msyyyyyyssyyhd               myyyyyyyyyyyyhd             .
-y                     NsyyyyyyyyyyhN               Nyyyyyyyysyyyhd             .
-y                      yyyyyyyyyyyd                 myyyyyyysyyyhd             .
-y                      hsyyyyyyyyhd                  hyyyyyyyyyyhd             .
-y                      mssyyyyyyyhd                  myyyyyyyyyhhm             .
-y                      Nossssssyyym                   hyyyyyyyyhhN             .
-y                      Nooooossssym                   hyyyyysyyhd              .
-y                      m+oooooossym                   myssssssyyd              .
-y                      d++ooooossym                   Nsoosoossym              .
-y                      h+++++oossym                    soooooosy               .
-y                      y+++/++osssm                   Nooooooosd               .
-y                      s////+++oysh                   d+++oooosm               .
-y                     m+///+++ossydm                  y+++++oosd               .
-y                  Nmy+///+++ossyddmm                 o+++++oosyN              .
-y               Nmdhhyyo++++ooyhdddmm                N++++++oosym              .
-y             Nmdddhhhdhs++osydddmmmN                do+++++oossmN             .
-y         NmdyyyyyhhhhhhhyyhdmmmmmNN                 yy+++oooossmmN            .
-y      NmdhyyyssyyhyhhdhdddmmNNN                     yyoyhhyhhhhhmdN           .
-y     dyyhhyyyyyhdhhhdddmNN                         Nyhhhdhddhdddmmd           .
-y     yyhhhhhhhhhhdddmN                             myyyhdddddddddmdN          .
-y     NddhhhhddddmmN                                Nhyhhhhhdddddddmm          .
-y        NNNNN                                      NhhhhhhhhddddhdmN          .
-y                                                    hyhhhhhhddhhmmmN          .
-y                                                    dhyyyhhhdddmmmN           .
-y                                                    mhhhhhhhhdmmmN            .
-y                                                     NhhhdddddmmN             .
-yNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmNNNNNNNNNNNNNNNNN.
+LNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNU
+L                          mmmmmmNNNNNNNNN                                     U
+L                        NmmmNNNNNNNNNNNNNNN                                   U
+L                       mmmmmmmdddddddmNNNNNN                                  U
+L                       mddhyoooooosssyhdmmNNNN                                U
+L                      Nds+++/+++++oossyyhdmNNNN                               U
+L                      dy+:/+///+++ooosyyydmmNNN                               U
+L                      hy//o+o+++++osyyyhhhdmNNNN                              U
+L                      ds+syhdhyoosyhdhhhddhdNNNN                              U
+L                      d+oyhhddhooyhdhdddhhhhNNNN                              U
+L                     Ny+/osyyys+oyyyyyyyyyyhNmdd                              U
+L                      y///++o+++oyyssoossyyhmdyyN                             U
+L                      y+//++ooysshysoooossyhhyyh                              U
+L                      m/+oooo+ossyyssssssyhhysyN                              U
+L                       h+oosyyysssyhhssssyhhmdm                               U
+L                        hooo+ossssssoosssyhd                                  U
+L                         doo++++ooooossyyyym                                  U
+L                         N+ooo+oooossyyyysym                                  U
+L                          ooossyyyyyyyysssyddd                                U
+L                         do+++osssssssssssyds/y                               U
+L                        m/s+++oooosssssssso/::/y                              U
+L                       m:.so++oossoooso+/:--::::+oydm                         U
+L                    Ny/.`-:oso+ooooo+/-----:::::----:/oyhmN                   U
+L                Nmdo-.../+:-:sooooo-:/+:--::-::-----------:+shm               U
+L            ms+:-...-...:::::/oooo:----:-----------------------:+ym           U
+L          h/.............-....-o+/......:-----------..---.--------:sN         U
+L        m/...`.......`.........s+......---....--..........--------::oN        U
+L       y-...........``.......`./-..`..--......-...........-:-----::::oN       U
+L      m..............`...............-...................-:------::::/s       U
+L      y.............................-...................-:-.---::::::::s      U
+L      +........................```.....................:::----::::-:::::m     U
+L     d...........................................------:/:---:::--:::--+N     U
+L     /..--...................................------:::://::::::--::--:/sN     U
+L    N-..-:--:--.............................---..-::::/oo+::::-----::::/oN    U
+L    N-...://:-.---..........................------::://os/::------:----:+N    U
+L    d...--://:/-............................------::://so/::::::------::/d    U
+L   N/..----://:...........--...............-----::::://so/:/::----------:+N   U
+L   y...----:/+/-...----.----....-........-.-----:::::::/s/:::------------:y   U
+L  m-...--::///o/------..--.................----:::::::::++/:::::---------:/m  U
+L  o...---::://o/.----..--..................-----::::----:+o+//::---------::oN U
+L d-...--:::/++o:.---......................-----:::-------/sh+/::::--------::d U
+LNo....---:://+s-.---.........`...........-----::--------:/ohhs+/:---------::s U
+Ly...------::/+o..--.......---::---....--.-----:--------://yddhso+//::------:+NU
+Ly:://++++++++os---......./++ooo++///---------:-------://++yyssooooosssoo+/::/dU
+Ly++++++ooooooss:--....--:/ooooo+/+oo+/:------------:/++ossoooooooossssssyyso+dU
+LNsoo+++++++++++++/////+/++++ooo+osoooooo+///////++oooooooooooooooosssssyyyyyhNU
+L mysoooo+++++++++++//+++ssoo++/+oooooooooooooooossoosooooooossssssssyyyyyyyhN U
+L  dyyyssoooooooooooo//+++oyyo+oooooosooooooos/oysssssssssssssssyyyyyyhhyhhm   U
+L   mdhhyyyyyyyyyyyssoo++++++++++osssssssssshsyysosssssyyyyyyyyyyhhhhddmN      U
+L     Nmdhhhhhhhhhhhho+osyyyysssssyyyyyyyyyshs+os+yyyyyyyyyhhhhddmNN           U
+L        NNNNNmmdhhysoooooosssssyyyyyyyyssssyso+osssssyyyyyhmN                 U
+L               mo+///:/ossysssssssso+//://///:::::::::////s                   U
+L               N/::--:::::+oo+++++//:::::--------:::::::::/sd                 U
+L                m:.----:--:::::///:::::----------:--::::::::+N                U
+L               m/.-:::-..------:::::----------------------:/m                 U
+L               d-.........------:::::---------------:::::++m                  U
+L                d:::-----:/::-::::::---:::://+oyyyyhhhddhs/s                  U
+L               h:.+dd+ysoo++////////+++-/syhdddmmmNNNds+:::/y                 U
+L             m+.``.:s/dmmmyys+yyhdshddd+-dmmmNNNmdhyo:----://d                U
+L            m:``````../oydyddmmmmmdyNNmm:omdhys+:---..-----:/+m               U
+L           N/.```````...--/hdmmmmmmydhys+:/--.........------:/d               U
+L           d...``.........-:++o++//:::---..............----:::d               U
+L           d-.................-..-.....................---::--o               U
+L           Ny/.........................................--:::--/N              U
+L             d-....................................-----::::--/N              U
+L             m........................................----::::o               U
+L             d..............----.......................----:::s               U
+L             y`.....-------------------.-..-..........-----:::/d              U
+L             o......--......--:--::----------..........------:/+N             U
+L             +........--::::--:::----------------......------::+N             U
+L            N:.......-----:::::/+/:::::-------..........-----:/+N             U
+L            N:............--:://+os+::------.............---::/h              U
+L            m.....------..----::/+os::::::::-...---......---::/m              U
+L            m.....-------------:::/+/:///:-----..........---:::m              U
+L            d`...------:::::-----:/+oo-----::---.........---::/N              U
+L            h`...-----------:::--::/+o://::-----..........--::/N              U
+L            h`...---------------:::/+s/:------------......--:::N              U
+L            h`...----------------::/+ss:::---------.......---::m              U
+L            d....--------------:::::+sd/:------------......--::d              U
+L            m..-------------------:/+s y::---------.......--:::h              U
+L            m---------------------:/oh N+:-----------.....--:::y              U
+L            N-..-----------------::/+m  d::-----------.------::o              U
+L            N:.-------------------:/oN   +:::----------------::+              U
+L            N:.-------------------:/o    y::::---------------::/N             U
+L            N:.-------------------:/+N   m::-----------------::/m             U
+L             /.--------------------:+N   N:-::---------------:::d             U
+L             o.-------------------:/y    N/:::::-------------::-o             U
+L             Ny+//:----::::///+++osd      mo/:----------------:-:N            U
+L                 Nmyyyssyyyyyyyssssm        ds+/:-------------/od             U
+L                   Nhhhhhyyyyysssyym         dhhys+//::::::/+sm               U
+L                    Nhddhhhhyyssyyhm         NhhhhhhhhhyyhhhhhN               U
+L                     yhdddhhyyyyyhhd          Nhhhhhhhhhhhhhhhd               U
+L                     syyhhhyyyyyyyyhN          Nhhddddddhhhhhhhm              U
+L                    Nsssyyyyyyyyyyyym           mhhhdddddhhyyyhdN             U
+L                    Nsssyyyyysssssyyh           Nhhhhhhhhyyyyyhhm             U
+L                    Nsssssyyssssssyyh           Nhyyyyyyyysssyhhd             U
+L                     ysssssssssssssyh            hyyyyyyyysssyyhd             U
+L                     hyssssyyyssssyyh            dyyyyyysssssyyhh             U
+L                     dsyysyysysssyyhm            myyyyyyyssssyyhh             U
+L                     msyyyyyyssyyyhm             Nyyyyyyyyssyyyhh             U
+L                     msyyyyyyssyyhd               myyyyyyyyyyyyhd             U
+L                     NsyyyyyyyyyyhN               Nyyyyyyyysyyyhd             U
+L                      yyyyyyyyyyyd                 myyyyyyysyyyhd             U
+L                      hsyyyyyyyyhd                  hyyyyyyyyyyhd             U
+L                      mssyyyyyyyhd                  myyyyyyyyyhhm             U
+L                      Nossssssyyym                   hyyyyyyyyhhN             U
+L                      Nooooossssym                   hyyyyysyyhd              U
+L                      m+oooooossym                   myssssssyyd              U
+L                      d++ooooossym                   Nsoosoossym              U
+L                      h+++++oossym                    soooooosy               U
+L                      y+++/++osssm                   Nooooooosd               U
+L                      s////+++oysh                   d+++oooosm               U
+L                     m+///+++ossydm                  y+++++oosd               U
+L                  Nmy+///+++ossyddmm                 o+++++oosyN              U
+L               Nmdhhyyo++++ooyhdddmm                N++++++oosym              U
+L             Nmdddhhhdhs++osydddmmmN                do+++++oossmN             U
+L         NmdyyyyyhhhhhhhyyhdmmmmmNN                 yy+++oooossmmN            U
+L      NmdhyyyssyyhyhhdhdddmmNNN                     yyoyhhyhhhhhmdN           U
+L     dyyhhyyyyyhdhhhdddmNN                         Nyhhhdhddhdddmmd           U
+L     yyhhhhhhhhhhdddmN                             myyyhdddddddddmdN          U
+L     NddhhhhddddmmN                                Nhyhhhhhdddddddmm          U
+L        NNNNN                                      NhhhhhhhhddddhdmN          U
+L                                                    hyhhhhhhddhhmmmN          U
+L                                                    dhyyyhhhdddmmmN           U
+L                                                    mhhhhhhhhdmmmN            U
+L                                                     NhhhdddddmmN             U
+LNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmNNNNNNNNNNNNNNNNNU
 
 	return EXIT_SUCCESS;
 }
